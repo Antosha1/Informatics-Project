@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
 //
 // Name:        ffApp.cpp
-// Author:      SotnikovD
+// Author:      SotnikovA
 // Created:     20.05.2018 18:56:54
 // Description: 
 //
