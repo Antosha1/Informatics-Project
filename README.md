@@ -1,2 +1,2 @@
 # Informatics-Project
-MIPT, 4 semester, final project
+MIPT, 4 term, final project
