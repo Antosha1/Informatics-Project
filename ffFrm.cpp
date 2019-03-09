@@ -1,7 +1,7 @@
 ///-----------------------------------------------------------------
 ///
 /// @file      ffFrm.cpp
-/// @author    SotnikovD
+/// @author    SotnikovA
 /// Created:   20.05.2018 18:56:54
 /// @section   DESCRIPTION
 ///            ffFrm class implementation
